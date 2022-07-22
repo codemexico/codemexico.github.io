@@ -4,8 +4,8 @@ html{
 
 body{
     
-    background-color: #000000;
-    color: #08a219;
+    background-color: #976464;
+    color: rgb(255, 255, 250);
 }
 
 .p1{
@@ -14,34 +14,11 @@ body{
 .p2 {
     font-family: Helvetica, Arial, sans-serif;
   }
-.p3 { 
-	font-family: "Playfair Display"; 
-}
-
-a{
-    color: #08a219;
-}
-a:hover, a:active{
-    color:#FFFFFF;
-}
 
 div {
     display: flex;
     justify-content: center;
 }
-.div-1 {
-        background-color: #d6d7d6;
-}
-.div-2 {
-    	background-color: #1627c3;
- }   
-.div-3 {
-	background-color: #801918;
-}
-h2 { 
-    text-align: center 
-}
 h1 { 
     text-align: center 
 }
-
