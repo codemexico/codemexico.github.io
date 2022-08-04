@@ -44,7 +44,7 @@ function checkHitWall() {
 }
 
 function draw() {
-    createRect(0,0,canvas.width, canvas.height, "pink")
+    createRect(0,0,canvas.width, canvas.height, "green")
     createRect(0,0, canvas.width, canvas.height)
 
     for (let i = 0; i < snake.tail.length; i++){
