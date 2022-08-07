@@ -37,6 +37,8 @@ h1 {
 }
 p{
   margin: 100px; 
+  text-align: justify;
+  
 }
 ul{
   margin: 100px; 
