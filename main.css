@@ -19,7 +19,7 @@ body{
 }
 
 a{
-    color: #a20808;
+    color: rgb(162, 8, 8);
 }
 a:hover, a:active{
     color:rgb(189, 193, 198);
