@@ -5,7 +5,7 @@ html{
 body{
     
     background-color: #ffffff;
-    color: rgb(162, 8, 8);
+    color: #a20808;
 }
 
 .p1{
@@ -19,10 +19,10 @@ body{
 }
 
 a{
-    color: rgb(162, 8, 8);
+    color: #a20808;
 }
 a:hover, a:active{
-    color:rgb(189, 193, 198);
+    color:#a20808;
 }
 
 div {
